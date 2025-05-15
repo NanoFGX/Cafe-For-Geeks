@@ -78,7 +78,7 @@ Universities often face long queues in faculty cafes, causing students to miss c
 | Name             | Role               |
 |------------------|--------------------|
 | Irfan            | UI/UX Designer     |
-| Nitesh Zakaria   | Backend Developer  |
+| Nitesh & Zakaria | Backend Developer  |
 | Zakaria          | Chief Director     |
 
 ---
